@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeTraderAPI", "CoffeeTrader\CoffeeTraderAPI.csproj", "{4638C734-1A5E-41A9-9B77-89B319AC389A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{054E58FB-E60A-4A7F-8BC2-17A1A705E904}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE.md = LICENSE.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4638C734-1A5E-41A9-9B77-89B319AC389A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4638C734-1A5E-41A9-9B77-89B319AC389A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4638C734-1A5E-41A9-9B77-89B319AC389A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4638C734-1A5E-41A9-9B77-89B319AC389A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AADE3148-1BE3-4D71-874F-93209D11446C}
+	EndGlobalSection
+EndGlobal
